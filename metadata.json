@@ -1,0 +1,6 @@
+{
+  "name": "Mindora – Video-Based Smart Focus App",
+  "description": "Mindora: Focus. Learn. Grow. Watch only your selected educational YouTube video without distractions with custom timers and smart app blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
